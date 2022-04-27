@@ -1,0 +1,17 @@
+{
+  "name": "luciana_desafio_engenharia",
+  "version": "1.0.0",
+  "description": "Gerador de relatórios para o desafio Loggi.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "loggi",
+    "estagio",
+    "desafio",
+    "javascript"
+  ],
+  "author": "Luciana Moraes",
+  "license": "MIT"
+}
