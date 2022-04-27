@@ -1,3 +1,5 @@
+const questao1 = require('./functions/questao1')
+
 const codigosDeBarra = [
 "288355555123888",
 "335333555584333",
@@ -21,4 +23,5 @@ const codigosDeBarra = [
 "034311555874001"
 ];
 
-console.log(codigosDeBarra);
+questao1.resposta(codigosDeBarra);
+
