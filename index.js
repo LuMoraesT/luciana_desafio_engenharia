@@ -3,6 +3,7 @@ const questao2 = require('./functions/questao2')
 const questao3 = require('./functions/questao3')
 const questao4 = require('./functions/questao4')
 const questao5 = require('./functions/questao5')
+const questao10 = require('./functions/questao10')
 
 const codigosDeBarra = [
 "288355555123888",
@@ -32,5 +33,6 @@ questao2.resposta(codigosDeBarra);
 questao3.resposta(codigosDeBarra);
 questao4.resposta(codigosDeBarra);
 questao5.resposta(codigosDeBarra);
+questao10.resposta(codigosDeBarra);
 
 
