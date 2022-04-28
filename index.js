@@ -33,6 +33,27 @@ questao2.resposta(codigosDeBarra);
 questao3.resposta(codigosDeBarra);
 questao4.resposta(codigosDeBarra);
 questao5.resposta(codigosDeBarra);
+
+console.log(" ")
+console.log("Questão 6 #######");
+console.log("Não processado.")
+console.log(" ")
+
+console.log(" ")
+console.log("Questão 7 #######");
+console.log("Não processado.")
+console.log(" ")
+
+console.log(" ")
+console.log("Questão 8 #######");
+console.log("Não processado.")
+console.log(" ")
+
+console.log(" ")
+console.log("Questão 9 #######");
+console.log("Não processado.")
+console.log(" ")
+
 questao10.resposta(codigosDeBarra);
 
 
